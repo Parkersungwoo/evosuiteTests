@@ -6,4 +6,12 @@ public class methods {
             return a;
         }
     }
+
+    public String isFiveCharacters(String a){
+        if (a.length() == 5){
+            return a;
+        } else {
+            return "False";
+        }
+    }
 }
