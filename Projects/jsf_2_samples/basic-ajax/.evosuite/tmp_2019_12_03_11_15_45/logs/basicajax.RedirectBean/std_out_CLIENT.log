@@ -1,0 +1,112 @@
+* Starting client
+* Connecting to master process on port 10745
+* Analyzing classpath: 
+  - C:/Users/joeyj/Documents/Git/evosuiteTests/Projects/jsf_2_samples/out/production/basic-ajax
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\deploy.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\access-bridge-64.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\cldrdata.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\dnsns.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\jaccess.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\jfxrt.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\localedata.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\nashorn.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\sunec.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\sunjce_provider.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\sunmscapi.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\sunpkcs11.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\zipfs.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\javaws.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfxswt.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\management-agent.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\plugin.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar
+  - C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\out\production\basic-ajax
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\jsf-api.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\javaee_6.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\jsf-impl.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\hibernate3.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\gwt-servlet.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\commons-io-1.2.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\commons-logging.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\groovy-all-1.5.6.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\commons-beanutils.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\commons-codec-1.3.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\commons-fileupload-1.1.1.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\commons-httpclient-3.1-alpha1.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\gmaps4jsf-core-1.1.2-SNAPSHOT.jar
+  - C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\lib\mysql-connector-java-3.1.13-bin.jar
+* Finished analyzing classpath
+* Generating tests for class basicajax.RedirectBean
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+[MASTER] 11:18:31.051 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\basic-ajax\.evosuite\evosuite-seeds\basicajax.RedirectBean.seed
+* Loaded 0 tests from C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\basic-ajax\.evosuite\evosuite-seeds\basicajax.RedirectBean.seed
+* Total number of test goals: 
+  - Line 19
+  - Branch 3
+  - Exception 0
+  - MutationFactory 2
+  - Output 3
+  - Method 3
+  - MethodNoException 3
+  - CBranchFitnessFactory 3
+* Using seed 1575393501372
+* Starting evolution
+[MASTER] 11:18:31.670 [pool-2-thread-1] WARN  TimeController - Phase INITIALIZATION lasted too long, 3 seconds more than allowed.
+* Search finished after 50s and 483 generations, 23399 statements, best individual has fitness: 8.266666666666666
+* Writing sequences to pool
+* Minimizing test suite
+* Going to analyze the coverage criteria
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 26%
+* Total number of goals: 19
+* Number of covered goals: 5
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 100%
+* Total number of goals: 3
+* Number of covered goals: 3
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 100%
+* Total number of goals: 2
+* Number of covered goals: 2
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 0%
+* Total number of goals: 2
+* Number of covered goals: 0
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 0%
+* Total number of goals: 3
+* Number of covered goals: 0
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 100%
+* Total number of goals: 3
+* Number of covered goals: 3
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 33%
+* Total number of goals: 3
+* Number of covered goals: 1
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 100%
+* Total number of goals: 3
+* Number of covered goals: 3
+* Generated 2 tests with total length 5
+* Resulting test suite's coverage: 57% (average coverage for all fitness functions)
+* Generating assertions
+* Resulting test suite's mutation score: 0%
+* Compiling and checking tests
+* Writing JUnit test case 'RedirectBean_ESTest' to C:\Users\joeyj\Documents\Git\evosuiteTests\Projects\jsf_2_samples\basic-ajax\.evosuite\tmp_2019_12_03_11_15_45\tests
+* Done!
+

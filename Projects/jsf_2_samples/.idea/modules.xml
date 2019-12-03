@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ajax-queue/ajax-queue.iml" filepath="$PROJECT_DIR$/ajax-queue/ajax-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ajax-request/ajax-request.iml" filepath="$PROJECT_DIR$/ajax-request/ajax-request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-ajax/basic-ajax.iml" filepath="$PROJECT_DIR$/basic-ajax/basic-ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-ezcomp/basic-ezcomp.iml" filepath="$PROJECT_DIR$/basic-ezcomp/basic-ezcomp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-bean-scope/custom-bean-scope.iml" filepath="$PROJECT_DIR$/custom-bean-scope/custom-bean-scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guessNumber2.0/guessNumber2.0.iml" filepath="$PROJECT_DIR$/guessNumber2.0/guessNumber2.0.iml" />
+    </modules>
+  </component>
+</project>
+
