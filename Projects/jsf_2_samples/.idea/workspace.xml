@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4b01e9a-d215-4e51-8283-0c54121800cb" name="Default" comment="" />
+    <list default="true" id="c4b01e9a-d215-4e51-8283-0c54121800cb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,11 +59,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bean_ESTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Bean_ESTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajax-request/src/evo/ajaxrequest/Bean_ESTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
               <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Count_ESTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-ajax/src/evo/basicajax/Count_ESTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="656">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Echo_ESTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-ajax/src/evo/basicajax/Echo_ESTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Functions_ESTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-ajax/src/evo/basicajax/Functions_ESTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HideNShow_ESTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic-ajax/src/evo/basicajax/HideNShow_ESTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -92,6 +130,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,13 +140,30 @@
               <item name="jsf_2_samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="ajax-queue" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jsf_2_samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ajax-queue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsf_2_samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic-ajax" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsf_2_samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic-ajax" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsf_2_samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic-ajax" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basicajax" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,7 +175,7 @@
     <property name="evosuite_gui_dialog_width" value="612" />
     <property name="evosuite_jar_location" value="C:\Users\joeyj\Desktop\evosuite-1.0.6.jar" />
     <property name="execution_mode" value="MVN" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ajax-queue" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../randoop" />
     <property name="memory_evosuite_param" value="4000" />
     <property name="mvn_location" value="C:\Users\joeyj\Downloads\apache-maven-3.6.2-bin\apache-maven-3.6.2\bin\mvn.cmd" />
     <property name="project.structure.last.edited" value="Project" />
@@ -193,11 +251,13 @@
       <updated>1575392652420</updated>
       <workItem from="1575392654120" duration="2016000" />
       <workItem from="1575493386035" duration="16000" />
+      <workItem from="1575569730792" duration="159000" />
+      <workItem from="1575664510570" duration="139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2032000" />
+    <option name="totallyTimeSpent" value="2330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1933" height="1053" extended-state="6" />
@@ -249,6 +309,122 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ajax-request/.evosuite/best-tests/ajaxrequest/Bean_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#3061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-request/.evosuite/best-tests/ajaxrequest/Bean_ESTest_scaffolding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-request/.evosuite/best-tests/ajaxrequest/Panel_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-request/.evosuite/best-tests/ajaxrequest/RequestPhaseListener_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-request/src/evo/ajaxrequest/Bean_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-ajax/src/evo/basicajax/Count_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-ajax/src/evo/basicajax/Echo_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-ajax/src/evo/basicajax/Functions_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-ajax/src/evo/basicajax/HideNShow_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-request/.evosuite/best-tests/ajaxrequest/Bean_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#3061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-request/.evosuite/best-tests/ajaxrequest/Bean_ESTest_scaffolding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-request/.evosuite/best-tests/ajaxrequest/Panel_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-request/.evosuite/best-tests/ajaxrequest/RequestPhaseListener_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-request/src/evo/ajaxrequest/Bean_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ajax-request/.evosuite/best-tests/ajaxrequest/Bean_ESTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -347,6 +523,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-ajax/src/evo/basicajax/Count_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-ajax/src/evo/basicajax/Echo_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-ajax/src/evo/basicajax/Functions_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-ajax/src/evo/basicajax/HideNShow_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
